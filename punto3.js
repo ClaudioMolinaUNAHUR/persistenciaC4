@@ -31,7 +31,7 @@ User.init({
 
 
 
-// PUNTO 1
+// PUNTO 3
 //insercion registro
 function crearRegistro(nombre, apellido){
   sequelize.sync()
